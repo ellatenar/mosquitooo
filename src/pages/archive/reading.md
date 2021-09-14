@@ -1,0 +1,80 @@
+---
+slug: "/reading"
+title: "Reading List, 2017-2020"
+---
+## 2020
+ - *Red Star* by Alexander Bogdanov
+ - *Engineer Menni* by Alexander Bogdanov
+ - *Zami: A New Spelling of My Name* by Audre Lorde
+ - *All About Love* by bell hooks
+ - *Full Surrogacy Now* by Sophie Lewis
+ - *The Years of Rice and Salt* by Kim Stanley Robinson
+ - *Farming While Black* by Leah Penniman
+ - *Radical Dharma* by Rev. angel Kyodo williams, Lama Rod Owens, and Jasmine Syedullah
+ - *Just Kids* by Patti Smith
+ - *Transit* by Rachel Cusk
+ - *Speedboat* by Renata Adler
+ - *Aftermath* by Rachel Cusk
+ - *Autumn* by Karl Ove Knausgaard
+ - *How to Do Nothing* by Jenny Odell
+ - *Paradise Rot* by Jenny Hval
+ - *On Earth We’re Briefly Gorgeous* by Ocean Vuong
+ - *The First Bad Man* by Miranda July
+ ## 2019
+ - *Paul Takes the Form of a Mortal Girl* by Andrea Lawlor
+ - *The Body Keeps the Score* by Bessel van der Kolk
+ - *Love’s Work* by Gillian Rose
+ - *Thick* by Tressie McMillan Cottom
+ - *My Year of Rest and Relaxation* by Ottessa Moshfegh
+ - *There There* by Tommy Orange
+ - *In the House We Built* by Prairie Faul
+ - *The End of Eddy* by Edouard Louis
+ - *My Butch Career* by Esther Newton
+ - *Why Women Have Better Sex Under Socialism* by Kristen Ghodsee
+ - *Weird Fucks* by Lynne Tillman
+ - *Beverly* by Nick Drnaso
+ - *Conversations with Friends* by Sally Rooney
+ - *How to Change Your Mind* by Michael Pollan
+ - *Capitalist Realism* by Mark Fisher
+ - *The Remains of the Day* by Kazuo Ishiguro
+ - *Bad Blood: Secrets and Lies in a Silicon Valley Startup* by John Carreyrou
+ - *Portnoy’s Complaint* by Philip Roth
+ - *Sexuality, Disability, and Aging: Queer Temporalities of the Phallus* by Jane Gallop
+ - *What I Talk About When I Talk About Running* by Haruki Murakami
+ - *Living a Feminist Life* by Sara Ahmed
+ - *Women* by Chloe Caldwell
+ - *The Neapolitan Novels* by Elena Ferrante
+ ## 2018
+ - *The Left Hand of Darkness* by Ursula K. LeGuin
+ - *The Second Body* by Daisy Hildyard
+ - *I Want to Be Ready: Improvised Dance as a Practice of Freedom* by Danielle Goldman
+ - *Too Much and Not the Mood* by Durga Chew-Bose
+ - *Evicted: Poverty and Profit in the American City* by Matthew Desmond
+ - *The World Goes On* by László Krasznahorkai
+ - *MacArthur Park* by Andrew Durbin
+ - *At Your Own Risk* by Derek Jarman
+ - *Carceral Capitalism* by Jackie Wang
+ - *How Should a Person Be?* by Sheila Heti
+ - *The Psychology of an Art Writer* by Vernon Lee
+ - *The Ethical Slut* by Janet Hardy and Dossie Easton
+ - *Techniques of Pleasure: BDSM and the Circuits of Sexuality* by Margot Weiss
+ - *Whitewalling: Art, Race & Protest in 3 Acts* by Aruna D’Souza
+ - *The Argonauts* by Maggie Nelson
+ - *Fledgling* by Octavia Butler
+ - *Before Pictures* by Douglas Crimp
+ - *Campus Sex, Campus Security* by Jennifer Doyle
+ - *The Handmaid’s Tale* by Margaret Atwood
+ - *Debt: The First 5,000 Years* by David Graeber
+ - *Herland* by Charlotte Perkins Gilman
+ ## 2017
+ - *Future Sex* by Emily Witt
+ - *When Watched: Stories* by Leopoldine Core
+ - *A Death in the Family (My Struggle, Vol. 1)* by Karl Ove Knausgaard
+ - *In the Wake: On Blackness and Being* by Christina Sharpe
+ - *Against Everything* by Mark Greif
+ - *Dark Pool Party* by Hannah Black
+ - *How to Murder Your Life* by Cat Marnell
+ - *The Lonely City* by Olivia Laing
+ - *A Man in Love (My Struggle, Vol. 2)* by Karl Ove Knausgaard
+ - *The Vegetarian* by Han Kang
+ - *The Idiot* by Elif Batuman
