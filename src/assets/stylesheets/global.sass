@@ -112,32 +112,6 @@ a:hover, .link-highlight:hover
     font-size: 1em
     margin-top: .8em
 
-//Editing Flexboxes
-.editing-container
-    display: flex
-
-
-.editing-container
-    @media (min-width: 1000px)
-        flex-flow: row nowrap
-    @media (max-width: 999px)
-        flex-flow: column nowrap
-        max-width: 800px
-    justify-content: flex-start
-    .editing-text
-        margin-top: 0
-        @media (min-width: 1000px)
-            margin-left: 2em
-        @media (max-width: 999px)
-            margin-left: 0
-        flex-flow: column nowrap
-        .editorial-role
-            margin-top: 1.5em
-    .gatsby-image-wrapper
-        @media (min-width: 1000px)
-            max-width: 10vw
-        @media (max-width: 999px)
-            max-width: 40vw
-        height: auto
-
-
+.editing-text > *
+    margin-top: 0
+    margin-bottom: 0
