@@ -1,9 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap")
 
-$base-color: #3F4952
-$base-font: "PT Serif"
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap')
+
+@font-face
+    font-family: 'Anthony'
+    src: url('../../fonts/Anthony/Anthony.eot')
+    src: url('../../fonts/Anthony/Anthony.eot?#iefix') format('embedded-opentype'), url('../../fonts/Anthony/Anthony.woff2') format('woff2'), url('../../fonts/Anthony/Anthony.woff') format('woff'), url('../../fonts/Anthony/Anthony.svg#Anthony') format('svg')
+    font-weight: normal
+    font-style: normal
+    font-display: swap
+
+@font-face
+    font-family: 'Authentic Sans'
+    src: url('../../fonts/AuthenticSans/AUTHENTICSans-90.eot')
+    src: url('../../fonts/AuthenticSans/AUTHENTICSans-90.eot?#iefix') format('embedded-opentype'), url('../../fonts/AuthenticSans/AUTHENTICSans-90.woff2') format('woff2'), url('../../fonts/AuthenticSans/AUTHENTICSans-90.woff') format('woff'), url('../../fonts/AuthenticSans/AUTHENTICSans-90.svg#AUTHENTICSans-90') format('svg')
+    font-weight: normal
+    font-style: normal
+    font-display: swap
+
+$base-color: #555555
+$base-font: "Authentic Sans"
 $link-color: #bd33a4
 $secondary-color: #bd3327
+
+.title
+    font-family: Anthony, Helvetica, sans-serif
 
 body
     background-color: $base-color
@@ -18,8 +39,13 @@ body
         height: 5vh
         width: auto
 
-.smol
-    font-size: .5em
+button
+  all: unset
+  cursor: pointer
+  padding-right: 1em
+
+span + span
+    margin-left: 1em
 
 .little-more-right-spacing
     margin-right: .12em
@@ -37,7 +63,7 @@ ul.not-rly-a-list
 .set-left
     margin-left: 0
 
-main, h2
+main, h2, footer
     font-family: $base-font
     margin-left: 2vh
     z-index: 5
@@ -48,6 +74,13 @@ main, h2
     //         font-size: 2vmin
     //     @media (max-height: 799px)
     //         font-size: 2vmax
+
+// set footer at bottom of page
+.wrapper
+    height: 92vh
+footer
+    position: absolute
+    bottom: 0
 
 * + *
     margin-top: 4vh

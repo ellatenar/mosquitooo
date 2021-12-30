@@ -1,12 +1,12 @@
-import * as React from "react"
+import * as React from "react";
 import { Moon } from "lunarphase-js";
-import { Link } from "gatsby"
+import { Link } from "gatsby";
 
 const MoonComponent = () => {
-
-  const coverage = Moon.lunarAgePercent() >= .5
-    ? (Moon.lunarAgePercent() - .5) * -139 + 105
-    : Moon.lunarAgePercent() * -140 + 35.5
+  const coverage =
+    Moon.lunarAgePercent() >= 0.5
+      ? (Moon.lunarAgePercent() - 0.5) * -139 + 105
+      : Moon.lunarAgePercent() * -140 + 35.5;
 
   return (
     <Link to="/">
@@ -33,7 +33,7 @@ const MoonComponent = () => {
               <stop offset="100%" stopColor="#FFFEED" stopOpacity="1" />
             </radialGradient>
           </defs>
-          <rect width="100%" height="100%" fill="#3F4952" />
+          <rect width="100%" height="100%" fill="#555555" />
           <g transform="rotate(-20 35.5 35.5)">
             <circle
               cx="35.5"
@@ -42,7 +42,14 @@ const MoonComponent = () => {
               stroke="none"
               fill="url(#RadialGrad)"
             />
-            <circle cx={String(coverage)} cy="35.5" r="35" stroke="none" fill="#3F4952" id="shift">
+            <circle
+              cx={String(coverage)}
+              cy="35.5"
+              r="35"
+              stroke="none"
+              fill="#555555"
+              id="shift"
+            >
               {/* <animate id="youngMoon" attributeName="cx" values="35.5;-35.5;" begin="1s;oldMoon.end+1s" dur="10s" fill="freeze" />
             <animate id="oldMoon" attributeName="cx" values="105;35.5;" begin="youngMoon.end+1s" dur="10s" fill="freeze" /> */}
             </circle>
@@ -50,7 +57,7 @@ const MoonComponent = () => {
         </svg>
       </div>
     </Link>
-  )
-}
+  );
+};
 
-export default MoonComponent
+export default MoonComponent;

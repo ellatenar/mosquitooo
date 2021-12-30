@@ -55,5 +55,12 @@ module.exports = {
         path: `${__dirname}/src/pages/archive`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `writing`,
+        path: `${__dirname}/src/pages/writing`,
+      },
+    },
   ],
 };

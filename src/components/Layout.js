@@ -2,9 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import Header from "./Header";
-import '../assets/stylesheets/global.sass'
-
-// import Footer from "components/Footer";
+import Footer from "./Footer";
+import "../assets/stylesheets/global.sass";
 
 const Layout = ({ children, pageName, title }) => {
   let className = "";
@@ -16,12 +15,16 @@ const Layout = ({ children, pageName, title }) => {
   return (
     <>
       <Helmet bodyAttributes={{ class: className }}>
-        <title>{title && title !== "Heather Holmes" ? `${title} – MOSQUITO` : `MOSQUITO`}</title>
+        <title>
+          {title && title !== "Heather Holmes"
+            ? `${title} – MOSQUITO`
+            : `MOSQUITO`}
+        </title>
       </Helmet>
       <div className="wrapper">
-        <Header title={title}/>
+        <Header title={title} />
         <main>{children}</main>
-        {/* <Footer /> */}
+        {pageName === "Index" && <Footer />}
       </div>
     </>
   );
