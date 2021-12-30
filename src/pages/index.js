@@ -30,19 +30,21 @@ const IndexPage = () => {
               <Link to="/writing/present">present</Link>
             </span>
             <span>
-              <button className="menu" onClick={showSubsubmenu}>
-                past
-              </button>
-              {visibleSubsubmenu && (
-                <ul className="subsubmenu">
-                  <li>
+              <ul className="subsubmenu not-rly-a-list">
+                <button id="showsubsubmenu" onClick={showSubsubmenu}>
+                  past
+                </button>
+                {visibleSubsubmenu && (
+                  <li id="subsubmenu1">
                     <Link to="/writing">published work</Link>
                   </li>
-                  <li>
+                )}
+                {visibleSubsubmenu && (
+                  <li id="subsubmenu2">
                     <Link to="/archive">site archive</Link>
                   </li>
-                </ul>
-              )}
+                )}
+              </ul>
             </span>
           </span>
         )}
@@ -52,9 +54,6 @@ const IndexPage = () => {
       </p>
       <p>
         <Link to="/bio">bio</Link>
-      </p>
-      <p>
-        <Link to="/archive">archive</Link>
       </p>
     </Layout>
   );
