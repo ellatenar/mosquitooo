@@ -2,13 +2,6 @@ import { Link } from "gatsby";
 import * as React from "react";
 import Layout from "../components/Layout";
 
-//other idea:
-/*
-  <p>
-    <Link to="/bio">Heather Holmes </Link>is an <Link to="/editing">editor </Link>and a <Link to="/writing">writer</Link>.
-  </p>
-*/
-
 const IndexPage = () => {
   const [visibleSubmenu, setVisibleSubmenu] = React.useState(false);
   const showSubmenu = () => {

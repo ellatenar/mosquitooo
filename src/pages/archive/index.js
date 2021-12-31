@@ -2,8 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 import Layout from "../../components/Layout";
 
-// to do: turn below into Links, and add content
-
 const Archive = () => {
   return (
     <Layout pageName="Mosquito" title="Archive">
