@@ -8,7 +8,7 @@ const Link2 = () => (
 const Footer = () => {
   return (
     <footer>
-      site by ella heron. fonts by {<Link1 />} and {<Link2 />}
+      site by ella heron. fonts by {<Link1 />} and {<Link2 />}.
     </footer>
   );
 };

@@ -4,7 +4,7 @@ import Layout from "../../components/Layout";
 const PresentWriting = () => {
   return (
     <Layout pageName="Mosquito" title="Present Writing">
-      More to come :)
+      <p>More to come :)</p>
     </Layout>
   );
 };

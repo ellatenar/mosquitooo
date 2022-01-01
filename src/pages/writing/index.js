@@ -42,10 +42,10 @@ const Index = () => {
           <i> Nat. Brut</i>
         </li>
 
-        <li onClick={setView} className="link">
+        <button onClick={setView} className="link">
           <span className="link-highlight">“Wilmer Wilson IV”&nbsp;</span>in
           <i> Songs for Sabotage</i>, 2018 New Museum
-        </li>
+        </button>
 
         {viewPic && (
           <StaticImage
