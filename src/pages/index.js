@@ -9,10 +9,7 @@ const IndexPage = () => {
   const [visibleSubmenu, setVisibleSubmenu] = React.useState(false);
   const showSubmenu = () => {
     setVisibleSubmenu((prev) => !prev);
-    if (!visibleSubmenu) setVisibleSubsubmenu(false);
   };
-  const [visibleSubsubmenu, setVisibleSubsubmenu] = React.useState(false);
-  const showSubsubmenu = () => setVisibleSubsubmenu((prev) => !prev);
 
   return (
     <Layout title="Heather Holmes" pageName="Index">
@@ -23,24 +20,10 @@ const IndexPage = () => {
         {visibleSubmenu && (
           <span className="submenu">
             <span>
-              <Link to="/writing/present">present</Link>
+              <Link to="/writing">published work</Link>
             </span>
             <span>
-              <ul className="subsubmenu not-rly-a-list">
-                <button id="showsubsubmenu" onClick={showSubsubmenu}>
-                  past
-                </button>
-                {visibleSubsubmenu && (
-                  <li id="subsubmenu1">
-                    <Link to="/writing">published work</Link>
-                  </li>
-                )}
-                {visibleSubsubmenu && (
-                  <li id="subsubmenu2">
-                    <Link to="/archive">site archive</Link>
-                  </li>
-                )}
-              </ul>
+              <Link to="/archive">site archive</Link>
             </span>
           </span>
         )}
