@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import Header from "./Header";
-import Footer from "./Footer";
 import "../assets/stylesheets/global.sass";
 
 const Layout = ({ children, pageName, title }) => {
@@ -23,8 +22,7 @@ const Layout = ({ children, pageName, title }) => {
       </Helmet>
       <div className="wrapper">
         <Header title={title} />
-        <main>{children}</main>
-        {pageName === "Index" && <Footer />}
+        <main className={pageName === "Index" ? "index-main" : undefined}>{children}</main>
       </div>
     </>
   );

@@ -5,11 +5,9 @@ const Bio = () => {
   return (
     <Layout pageName="Mosquito" title="Heather Holmes">
       <p className="text">
-        I'm Heather Holmes, a writer and editor. I’ve worked as CAA’s Associate
-        Editor for Publications and Programs and previously ran the digital
-        editorial initiative Notes at the Institute of Contemporary Art. I’m a
-        2019 grantee of the Velocity Fund for a publication project
-        called <a href="https://conflictsofinterest.co/">Conflicts of Interest</a>.
+        I’m Heather Holmes, a Philadelphia-based writer and editor. I like thinking,
+        writing, reading, editing about: the built environment, labor politics,
+        queerness, contemporary art &amp; music, and regenerative modes of being in the world.
       </p>
       <p className="text">
         You can reach me at heathmholmes [at] gmail (dot) com.

@@ -93,9 +93,14 @@ main, h2, footer
 .wrapper
     height: 92vh
 footer
-    position: absolute
-    bottom: 0
+    margin-left: 0vh
+    margin-top: 6vh
+    // align-self: flex-end
+    // position: absolute
+    // bottom: 0
+    // vertical-align:
 
+// https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
 * + *
     margin-top: 4vh
 
@@ -135,3 +140,18 @@ a:hover, .link-highlight:hover, button:hover
 .editing-text > *
     margin-top: 0
     margin-bottom: 0
+
+$img-height: 500
+
+.home-photo
+    object-position: left top
+
+.home-photo-box
+    max-height: 444px
+    width: auto
+
+.index-main
+    display: flex
+    justify-content: flex-end
+    flex-direction: column
+    max-width: 400px
