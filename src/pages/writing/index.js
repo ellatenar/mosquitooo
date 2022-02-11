@@ -16,7 +16,7 @@ const Index = () => {
           <i> Art in America</i>
         </li>
 
-        <li>
+        <li className="text">
           <a href="https://on-curating.org/issue-42-reader/public-ruptures-public-readerships-aids-in-writing.html#.XrWBmRNKhn0">
             "Public Ruptures, Public Readerships: AIDS in Writing,"
           </a>
@@ -42,9 +42,9 @@ const Index = () => {
           <i> Nat. Brut</i>
         </li>
 
-        <button onClick={setView} className="link">
+        <button onClick={setView} className="link text">
           <span className="link-highlight">“Wilmer Wilson IV”&nbsp;</span>in
-          <i> Songs for Sabotage</i>, 2018 New Museum
+          <i> Songs for Sabotage</i>, 2018 New Museum Triennial catalogue
         </button>
 
         {viewPic && (
@@ -80,7 +80,7 @@ const Index = () => {
           WebSafe2k16
         </li>
       </ul>
-      <p>
+      <p className="text">
         I edited a small publication called
         <i>&nbsp;the moon will sink into the street</i> for ICA Philadelphia in
         2017 about the ongoingness of AIDS; that’s available
@@ -88,6 +88,15 @@ const Index = () => {
           &nbsp;here
         </a>
         .
+      </p>
+      <p className="text">
+        I was lucky to work with <a href="https://rahulshinde.com/">Rahul</a> on a recent project called{" "}
+        <a href="https://conflictsofinterest.co/">Conflicts of Interest</a> (currently only viewable in
+        Pennsylvania!), a publication funded by a 2019 grant from the Velocity Fund. Featuring work by Bailey
+        Sheehan, Connie Yu, Ella Heron, Gee Wesley, Wilmer Wilson IV, Kaitlin Pomerantz, Zan de Parry, and
+        Demyan Hryciw, the publication presents several different ways of thinking through what it means to
+        live in Philadelphia, the futility of pandemic-era artmaking, the sonic resonances of everyday life,
+        and the little absurdities, coincidences, and pleasures of being human.
       </p>
     </Layout>
   );

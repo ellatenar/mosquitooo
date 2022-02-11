@@ -5,64 +5,28 @@ const Editing = () => {
   return (
     <Layout pageName="Mosquito" title="Editing">
       <p className="text">
-        Editor for hire / happy to work on projects of all shapes n sizes, from
-        short essays to booklength manuscripts. Between my full-time & freelance
-        work, I’m experienced in almost all aspects of editorial work, from
-        citations and indexing to production management to image permissions and
-        proofreading, blah blah blah.
+        I’m available for editing work and happy to work on projects of all shapes and sizes, from short
+        essays to booklength manuscripts. I’ve worked as an editor for the better part of the past decade,
+        including in full-time positions at ICA Philadelphia, College Art Association, and Freeman’s.
+        Recent projects I’m grateful to have worked on include Stephen Housewright’s <i>Partners</i> and a
+        collection of essays about Jerry Hunt, <i>Transmissions from the Pleroma</i> (both Blank Forms,
+        2022), a gallery reader for Niki de Saint Phalle’s <i>Joy Revolution</i> at Salon 94 Gallery, and an
+        exhibition catalogue for Jammie Holmes’s <i>Pieces of a Ma</i>n at Library Street Collective.
       </p>
-      <div className="editing-text">
-        <p>
-          <a href="http://www.veralistcenter.org/engage/publications/2101/art-an-index-to-isee-also-i-politics-25-years-of-vera-list-center-fellowships/">
-            <i className="little-more-right-spacing">Art: An Index to (</i>see
-            also<i> Politics): 25 Years of Vera List Center Fellowships</i>
-          </a>
-          &nbsp;(New York: Vera List Center for Art and Politics, 2018).
-        </p>
-        <p className="editorial-role">Editing, copyediting, proofreading.</p>
-      </div>
-      <div className="editing-text">
-        <p>
-          <a href="https://icaphila.org/books/speech-acts-4/">
-            <i className="little-more-right-spacing">Speech/Acts</i>
-          </a>
-          &nbsp;(Philadelphia: Institute of Contemporary Art, University of
-          Pennsylvania & Futurepoem, 2018).
-        </p>
-        <p className="editorial-role">Copyediting, proofreading.</p>
-      </div>
-      <div className="editing-text">
-        <p>
-          <a href="https://icaphila.org/books/myths-of-the-marble-4/">
-            <i className="little-more-right-spacing">Myths of the Marble</i>
-          </a>
-          &nbsp;(Philadelphia and Oslo: ICA, Sternberg Press, and Henie Onstad
-          Kunstsenter, 2018).
-        </p>
-        <p className="editorial-role">Proofreading.</p>
-      </div>
-      <div className="editing-text">
-        <p>
-          <a href="http://www.inflandersfields.be/en/artist-in-residence-2017wilmer-wilson-iv-2">
-            <i className="little-more-right-spacing">Fire Bill's Spook Kit</i>
-          </a>
-          &nbsp;(Ieper, BE: In Flanders Fields Museum, 2017).
-        </p>
-        <p className="editorial-role">Editing, copyediting, proofreading.</p>
-      </div>
-      <div className="editing-text">
-        <p>
-          <a href="http://static.icaphila.org/pdf/Day_Without_Art-2017-TMWSITS.pdf">
-            <i className="little-more-right-spacing">
-              the moon will sink into the street
-            </i>
-          </a>
-          &nbsp;(Philadelphia: ICA, 2017).
-        </p>
-        <p className="editorial-role">
-          Commissioning editor, editing, proofreading, printing.
-        </p>
-      </div>
+      <p>
+        Past copyediting projects:
+      </p>
+        <li><i>Partners</i> (New York: Blank Forms, 2022).</li>
+        <li><i>Transmissions from the Pleroma</i> (New York: Blank Forms, 2022).</li>
+        <li><i>Jammie Holmes: Pieces of a Man</i> (Detroit: Library Street Collective, 2021).</li>
+        <li><i>Sam Friedman</i> (Detroit: Library Street Collective, 2021).</li>
+        <li><i>An Index to Art and Politics: 25 Years of Vera List Center Fellowships</i> (New York: Vera
+        List Center for Art and Politics, 2018).</li>
+        <li><i>Myths of the Marble</i> (Philadelphia: ICA, 2018).</li>
+        <li><i>Speech/Acts</i> (Philadelphia: ICA, 2018).</li>
+        <li><i>the moon will sink into the street</i> (Philadelphia: ICA, 2018) (commissioning editor).</li>
+        <li><i>Fire Bill’s Spook Kit</i> (Ieper, BE: In Flanders Fields Museum, 2017).</li>
+
     </Layout>
   );
 };
