@@ -1,5 +1,5 @@
 import * as React from "react";
-import Layout from "../../components/Layout";
+import Layout from "../components/Layout";
 import { StaticImage } from "gatsby-plugin-image";
 
 const Index = () => {
@@ -50,7 +50,7 @@ const Index = () => {
         {viewPic && (
           <StaticImage
             alt="Songs For Sabotage"
-            src="../../images/Songs+for+Sabotage__HH__WWIV.jpg"
+            src="../../static/assets/Songs+for+Sabotage__HH__WWIV.jpg"
           />
         )}
 
@@ -90,13 +90,17 @@ const Index = () => {
         .
       </p>
       <p className="text">
-        I was lucky to work with <a href="https://rahulshinde.com/">Rahul</a> on a recent project called{" "}
-        <a href="https://conflictsofinterest.co/">Conflicts of Interest</a> (currently only viewable in
-        Pennsylvania!), a publication funded by a 2019 grant from the Velocity Fund. Featuring work by Bailey
-        Sheehan, Connie Yu, Ella Heron, Gee Wesley, Wilmer Wilson IV, Kaitlin Pomerantz, Zan de Parry, and
-        Demyan Hryciw, the publication presents several different ways of thinking through what it means to
-        live in Philadelphia, the futility of pandemic-era artmaking, the sonic resonances of everyday life,
-        and the little absurdities, coincidences, and pleasures of being human.
+        I was lucky to work with <a href="https://rahulshinde.com/">Rahul</a> on
+        a recent project called{" "}
+        <a href="https://conflictsofinterest.co/">Conflicts of Interest</a>{" "}
+        (currently only viewable in Pennsylvania!), a publication funded by a
+        2019 grant from the Velocity Fund. Featuring work by Bailey Sheehan,
+        Connie Yu, Ella Heron, Gee Wesley, Wilmer Wilson IV, Kaitlin Pomerantz,
+        Zan de Parry, and Demyan Hryciw, the publication presents several
+        different ways of thinking through what it means to live in
+        Philadelphia, the futility of pandemic-era artmaking, the sonic
+        resonances of everyday life, and the little absurdities, coincidences,
+        and pleasures of being human.
       </p>
     </Layout>
   );

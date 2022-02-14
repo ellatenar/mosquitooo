@@ -6,7 +6,7 @@ date: March 14, 2019
 
 I haven’t written anything new here since September, partly a function of exhaustion, partly seasonal depression, partly my inability or unwillingness to see much new art. I wrapped up 2018 having seen a little over forty exhibitions—the bulk of which I saw when I was living in Philly and in the frenzied few months after I moved to New York. Last week marked one year in New York for me, and maybe I’m getting into a groove that’s neither total disengagement with the so-called art world nor a mania that drives me to say yes to everything.
 
-![GATSBY_EMPTY_ALT](../../images/social-soil.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/social-soil.jpeg)
 
 <p class="caption">Goldman Club, <i>Social Soil</i>, 2016-present. Rehabilitated soil from Trump Golf Links at Ferry Point (Bronx, NY), taken and intermittently nourished to grow latent weeds; nitrogen, phosphorous, potassium, activated carbon, gravel, and menstrual blood. Installation view at Participant Inc.<p>
 
@@ -14,7 +14,7 @@ One exhibition I saw toward the end of the year really stuck with me, _A New Job
 
 Now this is feeling a bit like the [Rhizome net art exhibition](https://www.newmuseum.org/exhibitions/view/the-art-happens-here-net-art-s-archival-poetics) up at the New Museum—those slides that showed screenshots of Livejournal authors penning their final posts—which is embarrassing. What’s happened over the past year? I moved to New York, which has been moderately successful amid small and large failures, although I still don’t really know what the metrics are. I published some poetry for the first time in my adult life, chipped away slowly at new novels, both within and outside of the workshop group I’m in with Laura, Chelsea, Bridget, and Paige, began steadily ghostwriting erotica :~), editing for the Vera List Center for Art and Politics, and working with _Art Papers_ and _On Curating_ (no idea when those pieces will come out, though). My friends did so much cool stuff. [Cole](https://www.cole-lu.com/) and [Wilmer](https://wwiv.info/) showed their work all over; Laura published [_Whore Foods_](https://inpatientpress.bigcartel.com/product/la-warman-s-whore-foods) (and my roommate Sabrina designed the cover), [Dana](https://www.nytimes.com/2019/01/24/arts/design/new-museum-vote-to-unionize.html) and [Lily](https://www.jacobinmag.com/2019/01/new-museum-union-uaw-art-bargaining) unionized the New Museum, Sean and Adrianne started [a new band](https://cryinginpublic.bandcamp.com/releases), Gee curated [an exhibition](https://www.sculpture-center.org/exhibitions/11572/in-practice-other-objects) at SculptureCenter, [Liz and M](https://www.phillystewards.art/openings-and-events/2018/3/3/opening-liz-barr-m-slater-fit) exhibited their work right around the corner from where we all used to live in Philly, and on and on. Almost everyone I care for has had a difficult year, which makes their accomplishments all the more impressive.
 
-![GATSBY_EMPTY_ALT](../../images/voids.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/voids.jpeg)
 
 <p class="caption">Dylan Mira, <i>VOIDS</i>, 2015, 22 x 48 in. Digital inkjet print on PVC. Installation view at Participant Inc.<p>
 
@@ -22,7 +22,7 @@ But: _A New Job to Unwork At_. I meant to begin talking about this. Something ab
 
 Graeber concludes _Debt_ in an open-ended fashion, contemplating the possibility of a future Jubilee, or widespread debt cancellation. In a contemporaneous (2012) essay called [“After the Jubilee,”](http://www.e-flux.com/wp-content/uploads/2013/05/2.-Graeber_afterJubilee.pdf) Graeber writes, “some kind of mass debt cancellation is on the way. Almost everyone is willing to admit this now. It’s the only way to resolve the sovereign debt crisis in Europe. It’s the only way to resolve the ongoing mortgage crisis in America. … why postpone it?” It’s now 2019 and, as I revisit this text, we feel no closer—in America, at least, but seemingly elsewhere as well—to mass debt cancellation. If anything, the current administration has doubled down on not only the financial but the _moral_ imperatives of paying off one’s debts, in every sphere from higher education to homeownership. However, if this eternal pushing-off of what Graeber (and many others) deem the inevitable has produced anything worthwhile, perhaps it’s an ongoing imaginary.
 
-![GATSBY_EMPTY_ALT](../../images/voids2.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/voids2.jpeg)
 
 <p class="caption">Dylan Mira, <i>VOIDS</i>, 2015, 22 x 48 in. Digital inkjet print on PVC. Installation view at Participant Inc.<p>
 
@@ -30,7 +30,7 @@ In _A New Job_ at Participant, one was greeted by Dylan Mira’s flat sculptures
 
 If Mira is here proposing a Jubilee a la Graeber, it’s operating not only at a different scale but to different ends. Understanding debts as essentially “promises of future productivity,” Graeber zooms out to a planetary scale, insisting that “the real burden of debt…[is] having to work ever harder, while at the same time, consuming more energy, eroding the earth’s ecosystems, and ultimately accelerating catastrophic climate change at just the moment we desperately need some way to reverse it.” (This need feels even more desperate now than it did in 2012, when he wrote this.) Mira’s _VOIDS_ feel, to me, individual in scale, even as they motion toward more universal gestures or sentiments. On the back of one of the voided-check sculptures, Mira has scrawled in all caps: “YOU SAID A PSYCHIC SAID / OH I SAID IT / WE WERE NEVER MAN / THE PART OF ME THAT KNOWS HOW LITTLE IT IS TO BE ONE.” In another iteration of _VOIDS_, the check’s back side reads “I DON’T BELIEVE IN FORM / BUT I WOULD LIKE TO KNOW MY BODY BETTER.” An irreverence toward money and its attending institutions allows Mira an inward turn—she uses her checkbook like scrap paper with which to contemplate her body, herself. She endorses these checks, but inscrutably.
 
-![GATSBY_EMPTY_ALT](../../images/new-job-install.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/new-job-install.jpeg)
 
 <p class="caption"><i>A New Job to Unwork At</i>, installation view. Photograph by Mark Waldhauser.</p>
 

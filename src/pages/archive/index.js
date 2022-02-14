@@ -29,7 +29,7 @@ const Archive = () => {
         <Link to="/archive/improv-readership">Improvisational Readership</Link>
       </p>
       <p>
-        <Link to="/archive/queer-charismas">Queer Charisma</Link>
+        <Link to="/archive/queer-charisma">Queer Charisma</Link>
       </p>
       <p>
         <Link to="/archive/who-owns-public-space">Who Owns Public Space?</Link>

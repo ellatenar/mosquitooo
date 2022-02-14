@@ -4,7 +4,6 @@ import Layout from "../components/Layout";
 import Footer from "../components/Footer";
 import { StaticImage } from "gatsby-plugin-image";
 
-
 const IndexPage = () => {
   const [visibleSubmenu, setVisibleSubmenu] = React.useState(false);
   const showSubmenu = () => {
@@ -35,13 +34,13 @@ const IndexPage = () => {
         <Link to="/bio">bio</Link>
       </p>
       <StaticImage
-      alt="chicken spiral"
-      src="../images/chicken.jpg"
-      imgClassName="home-photo"
-      className="home-photo-box"
-      objectFit="contain"
+        alt="chicken spiral"
+        src="../../static/assets/chicken.jpg"
+        imgClassName="home-photo"
+        className="home-photo-box"
+        objectFit="contain"
       />
-      <Footer/>
+      <Footer />
     </Layout>
   );
 };

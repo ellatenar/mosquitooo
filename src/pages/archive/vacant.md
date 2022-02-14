@@ -8,7 +8,7 @@ In certain city spaces during certain times of day—usually very early in the m
 
 I felt this way, too, last month at [Chapter NY](http://chapter-ny.com/) on the Lower East Side. The first time I visited the newly-relocated gallery was during one of early March's last-gasp snowstorms, this one dumping the kind of dispiriting wet snow that makes branches and umbrellas sag. I left work early and headed over in the miserable slush an hour or two before the gallery was set to close, but when I got there, the lights were dim from the outside and no one answered my insistent buzzing. I finally accepted that the city was beginning to observe a snow day, and went to a diner next door to mope over matzo ball soup. On my way back home that evening, the normally impossible sidewalks had emptied themselves of human and canine presence.
 
-![GATSBY_EMPTY_ALT](../../images/neutron.png)
+![GATSBY_EMPTY_ALT](../../../static/assets/neutron.png)
 
 <p class="caption">A diagram that ran alongside "Neutron Bomb: An Explosive Issue" in <a href="https://www.nytimes.com/1981/11/15/magazine/neutron-bomb-an-explosive-issue.html">a November 1981 issue of the <i>New York Times</i>.</a></p>
 
@@ -22,16 +22,16 @@ Darling's sculptures—whose labels list materials like "back brace, mild steel,
 
 The *Support Level* [press release](http://chapter-ny.com/exhibitions/past/jesse-darling/) reads that Darling "draws from the clinical as a structural and social form of abjection," continuing, "A commode chair crawls along the floor, as a hygiene curtain reveals a gaping wound; health advice posters in asemic script hang with uncertainty, over-painted as though vandalized—architectures of the care-industrial complex pressed, distressed, and in pain." While the physical descriptors here are true—the commode chair does crawl, and the torn curtain and scribbled-on posters do hang—I can't help but wonder at the gloom-and-doom interpretation presented here, and whether this language stems from the artist or the gallery. Darling certainly does not present a utopian vision of disability; their work seemingly exists in an alternate universe from that of artists like [Sue Austin](http://www.wearefreewheeling.org.uk/sue-austin-home) and [Alice Sheppard](http://alicesheppard.com/), both of whom regard mobility devices as liberatory and image them as such in their work. (I was unaware of both of these artists prior to a presentation by Timothy Hiles at a panel called ["Disability Aesthetics and Choreopolitics"](https://conference.collegeart.org/programs/disability-aesthetics-and-choreopolitics/) at the 2018 CAA Conference.) At the same time, part of what's so compelling about Darling's work is its strange and critical kind of optimism or hopefulness. Darling seems committed to using the material of our broken healthcare systems against itself, revealing the system's own weak joints. Here, disability and illness are presented not as sites of utter abjection but as frustrations that enable points of departure and occasions to imagine how our lives might be otherwise if our systems of care did not consistently fail us.
 
-![GATSBY_EMPTY_ALT](../../images/plexus.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/plexus.jpeg)
 
 <p class="caption">Jesse Darling, <i>Plexus</i>, 2017. Back brace, mild steel, lacquer, grip bar, cool pack.</p>
 
 Though the objects in the room are mostly devoid of figuration (with the exception of one drawing from the _waiting room poster/municipal hospital_ series, depicting a footless figure pregnant with a question mark), their presence evokes the human regardless. This evocation stretches backward and forward in time simultaneously: the sculptures map the ways in which human bodies may (or may not be able to) interact with them at a future moment, but are also indexes of past human action against them. Each time the objects begin to feel antagonistic toward their material, there is a moment when you catch an angle that almost makes you laugh (a bend, a squat), and it begins to feel like these sculptures have been rendered with a kind of resentful tenderness, like the maker knows these medical artifacts cannot escape their own pathetic and inadequate qualities. Humans lurk everywhere just outside the metaphorical frame of these works. It's funny how some of the most telling signifiers of human abandonment—like smashed-in or boarded-up windows, or graffiti, as rendered here by Darling over or in place of educational health posters—are also the traces of the human hand. If the neutron bomb were dropped, it too would leave its own unmistakably manmade markers of absence.
 
-![GATSBY_EMPTY_ALT](../../images/JD4.jpeg)
-![GATSBY_EMPTY_ALT](../../images/JD5.jpeg)
-![GATSBY_EMPTY_ALT](../../images/JD6.jpeg)
-![GATSBY_EMPTY_ALT](../../images/JD7.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/JD4.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/JD5.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/JD6.jpeg)
+![GATSBY_EMPTY_ALT](../../../static/assets/JD7.jpeg)
 
 In another quiet corner of a different New York institution, the New Museum, Julia Phillips' sculptures silently unsettle. Phillips' sculptural apparatuses are featured in the 2018 New Museum Triennial, *[Songs for Sabotage](https://www.newmuseum.org/exhibitions/view/2018-triennial-songs-for-sabotage).* As Magdalyn Asimakis writes in the exhibition's catalogue, Phillips' sculptures are dismantled and put back together each time they are shipped and re-exhibited, "challenging installers to piece together the counterintuitive structures" and "reconsider the potentials of their own bodies." This, I think, is equally true for the average onlooker as it is for the art handler: the definitive signifiers and traces of the body are present, but how, exactly, does a body fit here, does a body use this? In this way, Phillips' sculptures resonate strongly with Darling's; both instantiate a kind of bodily projection in which the viewer can't help but wonder how she would or would not be able to interact with the object at hand.
 

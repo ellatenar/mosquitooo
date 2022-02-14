@@ -4,6 +4,14 @@ module.exports = {
     title: "mosquitooo",
   },
   plugins: [
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "images",
+        path: `${__dirname}/static/assets`,
+      },
+      __key: "images",
+    },
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
     "gatsby-plugin-netlify",
@@ -11,15 +19,15 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/icon.png",
+        icon: "static/assets/icon.png",
       },
     },
-    "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          "gatsby-remark-relative-images",
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -36,16 +44,8 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "images",
-        path: "./src/images/",
-      },
-      __key: "images",
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "pages",
-        path: "./src/pages/",
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
       },
       __key: "pages",
     },
@@ -55,13 +55,7 @@ module.exports = {
         name: `archive`,
         path: `${__dirname}/src/pages/archive`,
       },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `writing`,
-        path: `${__dirname}/src/pages/writing`,
-      },
+      __key: "archive",
     },
   ],
 };
