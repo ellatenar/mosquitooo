@@ -20,7 +20,7 @@ It's not the first time Vox Populi has hosted architectural interventions in its
 
 *Shotgun Inversion* has rare qualities of gentle coercion and absolutely none of them are unfamiliar. We encounter them daily. Bruce Nauman's neon-lit corridors—antagonistic to our easy gallery-wandering sensibilities—have what Fionn Meade has called an "aesthetic of encounter." They exercise their own coercion in that their very existence as extremely narrow hallways prompts us to transpose our own bodies onto them, to imagine the ways in which our bodies can or cannot fit through them. They also don't exist outside the gallery, and neither does Stephanie Bursese's impenetrable wall. They have an aesthetic of encounter in part because they aren't included in our structural pedestrian vocabulary. We haven't encountered them countless times on the street; we haven't encountered them at all.
 
-![Courtesy the artist and CONNERSMITH. Photo: Julia Staples.](<(../../../static/assets/that-which-cannot-be-2.jpeg)>)
+![Courtesy the artist and CONNERSMITH. Photo: Julia Staples.](../../../static/assets/that-which-cannot-be-2.jpeg)
 
 <p class="caption">Courtesy the artist and CONNERSMITH. Photo: Julia Staples.</p>
 
@@ -37,7 +37,3 @@ Wilmer Wilson IV, [_Five Points on Straight Lines_](http://icaphila.org/notes/82
 Angie Schmitt, ["The Least Crossable Streets in America,"](http://gizmodo.com/the-least-crossable-streets-in-america-1578935187) Gizmodo. In writing this piece I fell down a deep rabbit hole of researching urban infrastructure & street/sidewalk design. It was also during a period of time when I was walking to and from work every day. I work on a university campus, so beyond the usual pedestrian impediments there is also constant construction. This list of poorly designed streets underscored the moments at which bad design is so bad that it reaches the level of local infamy.
 
 Fionn Meade gave a really good talk called "From Event to Refraction" at a symposium called "Museum as Score" at the Philadelphia Museum of Art on September 10, 2016. It doesn't look like there's any documentation of it online, unfortunately, but [here](https://files.acrobat.com/a/preview/f6477219-8931-48e0-8699-4636a878cd9f) is a PDF of the symposium program. Meade spoke beautifully about Bruce Nauman and got me thinking about the possible connections between Wilson's and Nauman's work. There's [a Nauman exhibition](http://www.philamuseum.org/exhibitions/848.html) up now at the PMA through April 16, 2017.
-
-[February 13, 2017](/home/2017/channelizer) /[Heather Holmes](/?author=589be3111b10e3beb928fbf4) /[Source](http://www.theartblog.org/2016/11/channelizer-2016-new-art-writing-challenge-grand-prize-winner/)
-
-[Wilmer Wilson IV](/home/tag/Wilmer+Wilson+IV), [Vox Populi Gallery](/home/tag/Vox+Populi+Gallery), [SFMOMA](/home/tag/SFMOMA), [Bruce Nauman](/home/tag/Bruce+Nauman), [McKenzie Wark](/home/tag/McKenzie+Wark), [Pedestrian disobedience](/home/tag/Pedestrian+disobedience)
