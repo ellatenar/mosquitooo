@@ -17,6 +17,7 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
+    "@netlify/functions": "^2.7.0",
     "gatsby": "^3.0.0-next.0",
     "gatsby-plugin-image": "^1.13.0",
     "gatsby-plugin-manifest": "^3.12.0",
@@ -30,7 +31,8 @@
     "gatsby-source-filesystem": "^3.13.0",
     "gatsby-transformer-remark": "^4.10.0",
     "gatsby-transformer-sharp": "^3.13.0",
-    "lunarphase-js": "^1.0.8",
+    "lunarphase-js": "^2.0.3",
+    "node-fetch": "^2.7.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
