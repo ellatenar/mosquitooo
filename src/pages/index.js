@@ -1,17 +1,17 @@
-import { Link } from "gatsby";
-import * as React from "react";
-import Layout from "../components/Layout";
-import Footer from "../components/Footer";
-import { StaticImage } from "gatsby-plugin-image";
+import { Link } from "gatsby"
+import * as React from "react"
+import Layout from "../components/Layout"
+import Footer from "../components/Footer"
+import { StaticImage } from "gatsby-plugin-image"
 
 const IndexPage = () => {
-  const [visibleSubmenu, setVisibleSubmenu] = React.useState(false);
+  const [visibleSubmenu, setVisibleSubmenu] = React.useState(false)
   const showSubmenu = () => {
-    setVisibleSubmenu((prev) => !prev);
-  };
+    setVisibleSubmenu((prev) => !prev)
+  }
 
   return (
-    <Layout title="Heather Holmes" pageName="Index">
+    <Layout title="Heath Holmes" pageName="Index">
       <p>
         <button className="menu" onClick={showSubmenu}>
           writing
@@ -42,7 +42,7 @@ const IndexPage = () => {
       />
       <Footer />
     </Layout>
-  );
-};
+  )
+}
 
-export default IndexPage;
+export default IndexPage

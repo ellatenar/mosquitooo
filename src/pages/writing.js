@@ -1,10 +1,10 @@
-import * as React from "react";
-import Layout from "../components/Layout";
-import { StaticImage } from "gatsby-plugin-image";
+import * as React from "react"
+import Layout from "../components/Layout"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Index = () => {
-  const [viewPic, setViewPic] = React.useState(false);
-  const setView = () => setViewPic((p) => !p);
+  const [viewPic, setViewPic] = React.useState(false)
+  const setView = () => setViewPic((p) => !p)
   return (
     <Layout pageName="Mosquito" title="Writing">
       <p className="text">Here's some of my published writing:</p>
@@ -38,7 +38,9 @@ const Index = () => {
         </li>
 
         <li>
-          <a href="https://www.natbrut.com/heather-holmes">"Pisces,"</a>
+          <a href="https://web.archive.org/web/20240222052146/https://www.natbrut.com/heather-holmes">
+            "Pisces,"
+          </a>
           <i> Nat. Brut</i>
         </li>
 
@@ -90,8 +92,8 @@ const Index = () => {
         .
       </p>
       <p className="text">
-        I was lucky to work with <a href="https://rahulshinde.com/">Rahul</a> on
-        a recent project called{" "}
+        I was lucky to work with <a href="https://r-s-s.net/">Rahul</a> on a
+        recent project called{" "}
         <a href="https://conflictsofinterest.co/">Conflicts of Interest</a>{" "}
         (currently only viewable in Pennsylvania!), a publication funded by a
         2019 grant from the Velocity Fund. Featuring work by Bailey Sheehan,
@@ -103,7 +105,7 @@ const Index = () => {
         and pleasures of being human.
       </p>
     </Layout>
-  );
-};
+  )
+}
 
-export default Index;
+export default Index
